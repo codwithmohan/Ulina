@@ -1,0 +1,243 @@
+@media screen and (max-width:1199px) {
+    .category-main {column-gap: 20px;}
+    .customer-box {padding: 0 24px; max-width: 310px;}
+    .customer {padding-top: 40px;}
+    .item-image img {width: 100%;}
+    .profile-main {padding-bottom: 30px;}
+    .customer-box p {padding: 15px 0;}
+    .outfit-img img {width: 100%;}
+    .outfit-img {padding-top: 50px;}
+    .search-modal-popup .modal-wrapper .search {width: 550px; height: 80px;}
+    .modal-wrapper .close-icon {font-size: 25px;}
+    .user-login-page .log-in-page {width: 410px; height: 430px;}
+    .form-main {width: 310px;}
+    .user h3 {font-size: 38px;}
+    #footer {padding: 80px 0 15px 0;}
+    .customer-box-main::before {width: 158px; height: 158px; right: -15px;}
+    .customer-box-main::after {width: 350px; height: 350px;}
+    #about::after {width: 346px; height: 346px;}
+    #about::before {right: 30px; top: 40px;}
+    #category {padding: 60px 0;}
+    #latest {padding-bottom: 80px;}
+    #free {padding: 60px 0 50px 0;}
+    .address ul li a {max-width: 185px;}
+    .vector-2 {left: 335px;}
+    .banner-main {padding: 35px 0 53px 0;}
+    h1,h2 {font-size: 46px;}
+    .banner-img::before {width: 366px; height: 366px; background-size: 75%;}
+    #featured {padding: 60px 0;}
+    .banner-img img {width: 70%;}
+    .vector {max-width: 324px; height: 370px;}
+    .women-image::before {width: 435px; height: 435px; background-size: 75%;}
+    .women-collection-image img {margin-left: 15px;}
+    .women-collection-box {min-height: 255px;}
+    .men-collection-box {min-height: 255px;}
+    .form-main input {width: 280px;}
+}
+
+@media screen and (max-width:1023px) {
+    .customer-box {max-width: 305px;}
+    .ulina p {padding: 10px 0 20px 0;}
+    .customer-box-main::after {width: 330px; height: 330px; top: -90px;}
+    #about::after {width: 326px; height: 326px;}
+    #about {padding: 110px 0 90px 0;}
+    .customer {padding-top: 35px;}
+    .customer-box p {padding: 13px 0;}
+    .profile-main {padding-bottom: 25px;}
+    .customer-box-main::before {width: 148px; height: 148px; right: -15px;}
+    #free {padding: 55px 0 45px 0;}
+    .slick-dots {padding-top: 35px;}
+    .outfit-img img {width: 90%;}
+    .unique {min-height: 300px;}
+    #footer {padding: 70px 0 15px 0;}
+    h1,h2 {font-size: 42px; line-height: 55px;}
+    .women-collection-box {width: calc(50% - 10px);}
+    .collection-main {column-gap: 20px;}
+    .women-image::before {width: 415px; height: 415px;}
+    #product {padding: 63px 0 73px 0;}
+    .banner-txt a {width: 170px; height: 55px; font-size: 17px;}
+    #latest {padding-bottom: 65px;}
+    .product-price a {line-height: 55px; font-size: 17px;}
+    .product-txt p {padding-bottom: 20px; line-height: 26px;}
+    .top-main {padding: 40px 0 60px 0;}
+    #company-logo {padding: 50px 0 35px 0;}
+    #category {padding: 55px 0;}
+    .outfit-txt h6 {font-size: 20px;}
+    #featured {padding: 55px 0;}
+    .address h6 {padding-bottom: 16px;}
+    .menu>ul {column-gap: 25px;}
+    .header-icon ul {column-gap: 25px;}
+    .search-modal-popup .modal-wrapper .search {height: 70px;}
+    .modal-wrapper .close-icon { top: -90px; right: -90px;}
+}
+
+@media screen and (max-width:991px) {
+    h1,h2 {font-size: 28px; line-height: 40px;}
+    .banner-img img {width: 60%; margin-left: 70px;}
+    .banner-img::before {width: 266px; height: 266px; left: 80px; top: 40px;}
+    .banner-slider {max-width: 380px;}
+    .banner-txt h1 {max-width: 300px;}
+    p {font-size: 17px;}
+    .vector-2 img {width: 70%;}
+    .vector {max-width: 304px; height: 346px;}
+    .slick-dots {padding-top: 30px;}
+    .banner-main {padding: 35px 0 43px 0;}
+    .banner-txt p {line-height: 26px;}
+    #free {padding: 40px 0;}
+    .shipping-txt p {line-height: 22px;}
+    .vector {height: 277px;}
+    .vector img {width: 80%;}
+    .footer-main {flex-wrap: wrap;}
+    .ulina {width: 100%;}
+    .ulina p {max-width: 360px; padding: 10px 0 15px 0;}
+    .footer-right {width: 100%; padding-bottom: 30px;}
+    #footer {padding: 50px 0 15px 0;}
+    .social-media-icon ul {padding: 20px 0 30px 0;}
+    .address h6 {padding-bottom: 12px;}
+    #company-logo {padding: 40px 0 35px 0;}
+    .about-txt {width: 50%; padding-top: 50px;}
+    h4 {font-size: 20px;}
+    .customer-box-main {width: 50%; padding-left: 50px;}
+    .item-txt h6 {padding-top: 5px;}
+    .customer-box {max-width: 335px;}
+    .customer-box-main::after {width: 270px; height: 270px; left: -60px;}
+    #about::after {width: 300px; height: 300px;}
+    .outfit-main {display: flex; column-gap: 20px;}
+    .outfit {width: calc(33.33% - 20px);}
+    .top-main {padding: 40px 0;}
+    .outfit-txt .star {flex-wrap: wrap; row-gap: 5px; padding-bottom: 10px;}
+    .outfit-txt .star span {padding-left: 0;}
+    .outfit-txt h6 {font-size: 18px;}
+    .price-main ul li a {font-size: 14px;}
+    .price-main ul li {width: 22px; height: 22px;}
+    .women-image::before {width: 345px; height: 345px;}
+    .product-txt p {line-height: 24px;}
+    .circle-box {width: 63px; height: 63px; font-size: 25px !important;}
+    .circle-box::after {top: 22px; width: 3px; height: 3px;}
+    .circle-box::before {bottom: 22px; width: 3px; height: 3px;}
+    .end-time span {font-size: 15px;}
+    .product-price a {line-height: 45px; font-size: 16px;}
+    .tab ul li a {font-size: 20px;}
+    .featured-txt h6 {font-size: 17px;}
+    .outfit-box-main {row-gap: 34px; justify-content: flex-start; column-gap: 30px;}
+    .women-collection-txt {padding-left: 32px;}
+    #category {padding: 45px 0;}
+    #product {padding: 53px 0 63px 0;}
+    #featured {padding: 45px 0;}
+    #latest {padding-bottom: 55px;}
+    .size-main {padding-top: 14px;}
+    #about::before {width: 75px; height: 75px;}
+    .customer-box-main::before {width: 128px; height: 128px; bottom: -10px;}
+    #about {padding: 110px 0 60px 0;}
+    .tab ul {column-gap: 20px;}
+    .search-modal-popup .modal-wrapper .search { width: 500px; height: 60px;}
+    .modal-wrapper .close-icon { top: -70px; right: -70px;}
+    .search-modal-popup .search i { font-size: 22px;}
+}
+@media screen and (max-width:767px) {
+    .footer-right {padding-bottom: 20px;}
+    .address h6 {padding-bottom: 5px;}
+    .social-media-icon ul {padding: 20px 0 25px 0;}
+    #footer {padding: 30px 0 15px 0;}
+    #company-logo {padding: 25px 0;}
+    .about-main {flex-wrap: wrap;}
+    .about-txt {width: 100%; padding-top: 30px;}
+    .customer-box-main::after {display: none;}
+    .customer-box-main::before {display: none;}
+    #about::after {display: none;}
+    #about::before {display: none;}
+    .about-main {row-gap: 20px;}
+    .about-txt h3 {max-width: 300px;}
+    .about-txt p {max-width: 356px; line-height: 20px; padding-top: 10px; margin-bottom: 5px;}
+    .customer-box-main {width: 100%; padding-left: 0;}
+    #about {padding: 0 0 30px 0;}
+    .category-main {row-gap: 20px; flex-wrap: wrap;}
+    .category-row {padding-bottom: 20px;}
+    .shipping-txt p {line-height: 20px;}
+    .banner-txt p {line-height: 24px; padding-bottom: 15px;}
+    h1, h2 {line-height: 36px; font-size: 24px;}
+    .banner-txt a {width: 160px; height: 50px; font-size: 16px;}
+    .shipping-txt h6 {padding-top: 10px;}
+    .arrival-row h2 {padding-bottom: 0;}
+    .arrival-row h6 {padding-bottom: 19px;}
+    .product-txt p {line-height: 20px; padding-bottom: 10px;}
+    p {font-size: 15px;}
+    .product-txt h6 {padding-bottom: 5px; padding-top: 10px;}
+    .circle-box {width: 53px; height: 53px; font-size: 20px !important;}
+    .end-time span {font-size: 12px;}
+    #product {padding: 33px 0;}
+    #featured {padding: 40px 0;}
+    .featured-row {padding-bottom: 25px; flex-wrap: wrap; row-gap: 10px;}
+    .featured-txt h2 {padding-bottom: 5px;}
+    .tab ul {column-gap: 18px;}
+    .outfit-box-main {row-gap: 28px; column-gap: 20px;}
+    .outfit {width: calc(50% - 12.5px);}
+    #category {padding: 35px 0;}
+    .ulina p {padding: 0px 0 10px 0; line-height: 24px;}
+    .social-media-icon ul {padding: 15px 0 20px 0;}
+    .address ul li a {line-height: 22px;}
+    h3 {font-size: 35px;}
+    .about-txt h3 {line-height: 36px; font-size: 32px;}
+    .customer-box {max-width: 260px;}
+    .customer-box p {line-height: 24px; padding: 10px 0;}
+    .input-main {padding:0;}
+    .slick-dots {padding-top: 20px;}
+    .collection-main {flex-wrap: wrap;row-gap: 15px;}
+    .women-collection-box {width: 100%;}
+    .men-collection-box {width: 100%;}
+    h4 {font-size: 24px;}
+    .women-collection-image img {width: 90%; margin-left: 35px;}
+    .men-collection-image img {width: 90%;}
+    .women-image::before {width: 245px; height: 245px; background-size: 70%; top: 50px;}
+    .outfit-main {display: flex; column-gap: 25px; flex-wrap: wrap; row-gap: 15px;}
+    #latest {padding-bottom: 40px;}
+    .free-main {flex-wrap: wrap; row-gap: 15px;}
+    #free {padding: 35px 0;}
+    .product-price {flex-wrap: wrap; row-gap: 5px;}
+    .end-time-main {column-gap: 22px;}
+    .end-time span {padding-top: 5px;}
+    .copyright-txt a, h6 {font-size: 16px;}
+    .banner-txt h1 {font-size: 25px; line-height: 30px;}
+    .banner-slider {max-width: 358px; width: 60%;}
+    .banner-img img {width: 60%;margin-left: 80px;}
+    .banner-img::before {left: 75px; top: 30px; width: 236px; height: 236px;}
+    .banner-txt {width: 40%;}
+    .vector-2 img {width: 60%;}
+    .vector-2 {left: 220px; bottom: 66px;}
+    .header-main {column-gap: 8px;}
+    .menu>ul { display: none;}
+    .header-icon ul {column-gap: 20px;}
+    #header {padding: 10px 0;}
+    .toggle-bar {display: block; font-size: 22px;}
+    .menu {order: 2;}
+    .header-icon {order: 1;}
+    .banner-main {padding: 25px 0 33px 0;}
+    .search-modal-popup .modal-wrapper .search { width: 400px; height: 50px;}
+    .modal-wrapper .close-icon { top: -60px; right: -60px;}
+}
+@media screen and (max-width:575px) {
+    .banner-main {flex-wrap: wrap;}
+    .banner-txt { width: 100%; padding-bottom: 40px;}
+    .vector {display: none;}
+    .banner-img::before { left: 45px; top: 20px; width: 205px; height: 205px;}
+    .banner-slider {width: 100%;}
+    .banner-img img {margin-left: 50px;}
+    .outfit {width: 100%;}
+    .women-image {display: none;}
+    .product-main {flex-wrap: wrap;}
+    .product-txt {width: 100%;}
+    .product-price a {line-height: 40px;}
+    .women-collection-image {display: none;}
+    .women-collection-box {min-height: 180px;}
+    .men-collection-image {display: none;}
+    .men-collection-box {min-height: 180px;}
+    .men-collection-txt {padding-left: 30px;}
+    .women-collection-txt {padding-left: 30px;}
+    .slick-list ul {display: none;}
+    .footer-right-main { flex-wrap: wrap; row-gap: 20px;}
+    .customer-box {max-width: 290px;}
+    .address {width: 100%;}
+    .copyright-main { justify-content: center; flex-wrap: wrap;}
+    .item {width: 100%;}
+    .end-time-main {justify-content: space-between;}
+}
