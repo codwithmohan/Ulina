@@ -240,4 +240,16 @@
     .copyright-main { justify-content: center; flex-wrap: wrap;}
     .item {width: 100%;}
     .end-time-main {justify-content: space-between;}
+    .search-modal-popup .modal-wrapper .search { width: 250px; height: 45px;}
+    .search-modal-popup .modal-wrapper .search {padding: 0 30px;}
+    .search-modal-popup input { width: 160px; font-size: 18px;}
+    .search-modal-popup .search i {font-size: 20px;}
+    .modal-wrapper .close-icon {
+        right: -10px;
+        width: 25px;
+        height: 25px;
+    }
+    .modal-wrapper .close-icon i {
+        font-size: 18px;
+    }
 }
